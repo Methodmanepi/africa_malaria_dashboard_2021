@@ -1,0 +1,396 @@
+---
+title: "World Malaria Report for WHO Africa Region 2020"
+author: "Methodius Okouzi"
+format: 
+ dashboard:
+    logo: images/LOGO_IMAGE.png
+    nav-buttons: [github]
+    github: https://github.com/YOUR_URL
+theme: lux
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+
+```{r}
+#load packages
+if(!require(pacman)) install.packages("pacman")
+pacman::p_load(tidyverse,
+               ggspatial,
+               here,
+               sf,
+               bslib, 
+               bsicons,
+               rnaturalearth, 
+               plotly, 
+               countrycode, 
+               htmltools, 
+               reactable,
+               janitor
+               )
+```
+
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+#load data
+susp_cases <- read_csv(here("data/suspected_malaria_cases.csv"))
+susp_tested_microscopy <- read_csv(here("data/suspected_tested_microscopy.csv"))
+susp_tested_rdt <-read_csv(here("data/suspected_tested_rdt.csv"))
+cases_treated_act <- read_csv(here("data/confirmed_treated_act.csv"))
+rdt_positive_cases <- read_csv(here("data/cases_positive_rdt.csv"))
+microscopy_positive_cases <- read_csv(here("data/cases_positive_microscopy.csv"))
+
+
+```
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+glimpse(susp_cases)
+```
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+#Rename variables of Interests
+susp_cases_rename <- susp_cases %>% 
+  rename(region = ParentLocationCode, region_name = ParentLocation, country_code =  SpatialDimValueCode, country_name  = Location, year =  Period, number_suspected =  FactValueNumeric, date = DateModified)
+
+susp_tested_microscopy_rename <- susp_tested_microscopy %>% 
+  rename(region = ParentLocationCode, region_name = ParentLocation, country_code =  SpatialDimValueCode, country_name  = Location, year =  Period, number_tested_microscopy =  FactValueNumeric, date = DateModified)
+
+susp_tested_rdt_rename <- susp_tested_rdt %>% 
+  rename(region = ParentLocationCode, region_name = ParentLocation, country_code =  SpatialDimValueCode, country_name  = Location, year =  Period, number_tested_rdt =  FactValueNumeric, date = DateModified)
+
+
+rdt_pos_cases_rename <- rdt_positive_cases %>% 
+  rename(region = ParentLocationCode, region_name = ParentLocation, country_code =  SpatialDimValueCode, country_name  = Location, year =  Period, number_pos_rdt =  FactValueNumeric, date = DateModified)
+
+microscopy_pos_cases_rename <- microscopy_positive_cases %>% 
+  rename(region = ParentLocationCode, region_name = ParentLocation, country_code =  SpatialDimValueCode, country_name  = Location, year =  Period, number_pos_microscopy =  FactValueNumeric, date = DateModified)
+
+cases_treated_act_rename <- cases_treated_act %>% 
+  rename(region = ParentLocationCode, region_name = ParentLocation, country_code =  SpatialDimValueCode, country_name  = Location, year =  Period, person_treated_act =  FactValueNumeric, date = DateModified)
+
+
+```
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+#Calculate total number of suspected cases of malaria
+total_susp_malaria_afr_2020 <- susp_cases_rename %>% 
+  select(region, year, number_suspected) %>% 
+  filter(region == "AFR", year == "2020") %>% 
+  summarize(suspected_total = sum(number_suspected))
+
+#Calculate the total number of suspected cases tested in Africa in  2020
+total_tested_joined <- full_join(susp_tested_rdt_rename, susp_tested_microscopy_rename)
+
+total_susp_tested_afr_2020 <- total_tested_joined %>% 
+  select(region, year, number_tested_rdt, number_tested_microscopy) %>% 
+  filter(region == "AFR", year == "2020") %>% 
+  mutate(tested_rdt_microscopy = number_tested_rdt + number_tested_microscopy) %>% 
+  summarize(total_suspected_tested = sum(tested_rdt_microscopy, na.rm = TRUE))
+  
+
+#Calculate the total number of persons confirmed positive in Africa in 2020
+total_confirmed_cases <- full_join(rdt_pos_cases_rename, microscopy_pos_cases_rename)
+
+total_confirmed_cases_afr_2020 <- total_confirmed_cases %>% 
+  select(region, year, number_pos_rdt, number_pos_microscopy) %>% 
+  filter(region == "AFR", year == "2020") %>% 
+  mutate(confirmed_rdt_microscopy = number_pos_rdt + number_pos_microscopy) %>% 
+  summarize(total_cases_confirmed = sum(confirmed_rdt_microscopy, na.rm = TRUE))
+
+#Calculate the total number of persons confirmed that were treated with ACT in Africa in 2020
+total_confirmed_treated_afr_2020 <- cases_treated_act_rename %>% 
+  select(region, year, person_treated_act) %>% 
+  filter(region == "AFR", year == "2020") %>% 
+  summarize(total_treated = sum(person_treated_act))
+
+```
+
+```{r results='hide', message=FALSE, warning = FALSE}
+susp_cases_afr_countries<- susp_cases_rename %>% 
+  filter(region == "AFR", year == "2020")
+
+#calculate the total of suspected cases tested in 2020 for each Africa country and plot a map to represent the distribution.
+tested_cases_afr_countries <- total_tested_joined %>% 
+  select(region, year, country_name, country_code, number_tested_rdt, number_tested_microscopy) %>% 
+  filter(region == "AFR", year == "2020") %>% 
+  mutate(tested_rdt_microscopy = number_tested_rdt + number_tested_microscopy, na.rm = TRUE)
+
+#calculate the total of confirmed cases in 2020 for each Africa country and plot a map to represent the distribution.
+
+confirmed_cases_afr_countries <- total_confirmed_cases %>% 
+  select(region, year, country_name, country_code, number_pos_rdt, number_pos_microscopy) %>% 
+  filter(region == "AFR", year == "2020") %>% 
+  mutate(confirmed_rdt_microscopy = number_pos_rdt + number_pos_microscopy, na.rm = TRUE)
+
+ act_treated_afr_countries<- cases_treated_act_rename %>% 
+   filter(region == "AFR", year == "2020")
+```
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+#join the malaria data
+ susp_tested_joined <- left_join(susp_cases_afr_countries, tested_cases_afr_countries)
+susp_tested_confirmed_joined <- left_join(susp_tested_joined, confirmed_cases_afr_countries)
+malaria_africa_joined <- left_join(susp_tested_confirmed_joined, act_treated_afr_countries)
+```
+
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+str(malaria_africa_joined)
+```
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+ malaria_africa_fac <- malaria_africa_joined %>% 
+mutate_if(is.character, as.factor)
+```
+
+```{r results='hide', message=FALSE, warning = FALSE}
+str(malaria_africa_fac)
+```
+
+
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+if(!require('pacman')) install.packages('pacman')
+pacman::p_load_gh("afrimapr/afrilearndata")
+```
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+data(africountries)
+```
+
+```{r results='hide', message=FALSE, warning = FALSE}
+africountries %>% 
+  head(7)
+```
+
+```{r results='hide', message=FALSE, warning = FALSE}
+setdiff(africountries$iso_a3, malaria_africa_fac$country_code)
+```
+
+```{r results='hide', message=FALSE, warning = FALSE}
+setdiff( malaria_africa_fac$country_code, africountries$iso_a3)
+```
+
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+africountries_corrected <- africountries %>% 
+mutate(
+    iso_a3 = case_when(iso_a3 == "ESH" ~ "MAR",
+                       is.na(iso_a3)  ~  "", TRUE ~ iso_a3
+    )
+  )
+```
+
+
+
+
+```{r results='hide', message=FALSE, warning = FALSE}
+malaria_africa_spatial <- left_join(africountries_corrected, malaria_africa_fac, by = c("iso_a3" = "country_code")) 
+```
+
+
+
+# Home
+
+## row 1{height=30%}
+```{r}
+value_box(
+  title = "Total suspected cases, Africa",
+  value = tags$p("282779798", style = "font-size: 150%;"),
+  showcase = bsicons::bs_icon("people", size = "0.5em"),
+  theme = value_box_theme(bg = "#7ecbf2")
+)
+```
+
+
+
+```{r}
+value_box(
+  title = "Total suspected cases tested, Africa",
+  value = tags$p("253840159", style = "font-size: 150%;"),
+  showcase = bsicons::bs_icon("binoculars", size = "0.5em"),
+  theme = value_box_theme(bg = "#3cace6")
+)
+```
+
+
+```{r}
+value_box(
+  title = "Total confirmed cases, Africa",
+  value = tags$p("147118795", style = "font-size: 150%;"),
+  showcase = bsicons::bs_icon("person-check-fill", size = "0.5em"),
+  theme = value_box_theme(bg = "#15a4ed")
+)
+```
+
+
+```{r}
+value_box(
+  title = "Total cases treated-ACT, Africa",
+  value = tags$p("145397421", style = "font-size: 150%;"),
+  showcase = bsicons::bs_icon("capsule-pill", size = "0.5em"),
+  theme = value_box_theme(bg = "#0681bf")
+)
+```
+
+
+## row 2{height=70%}
+
+#### {width=65%}
+
+```{r results='hide', message=FALSE, warning = FALSE}
+confirmed_cases_plot <- malaria_africa_spatial %>% 
+  mutate(tooltip_label = paste(country_name, ": ", confirmed_rdt_microscopy)) %>% 
+  ggplot()+
+  geom_sf(mapping = aes(fill = confirmed_rdt_microscopy, text =  tooltip_label))+
+  annotation_north_arrow(location = "br")+
+  annotation_scale(location = "bl")+
+  geom_sf_text(data = malaria_africa_spatial, mapping = aes(label = str_wrap(country_name, width = 7)), color = "white", size = 1.5)+
+  labs(title = "Confirmed Malaria cases in Africa in 2020")+
+  theme_void()
+  
+
+confirmed_cases_plotly <- ggplotly(confirmed_cases_plot, tooltip = "text")
+```
+
+
+```{r}
+confirmed_cases_plotly
+```
+
+
+
+
+#### {width=35%}
+```{r results='hide', message=FALSE, warning = FALSE}
+#Plot of confirmed malaria cases i Africa in 2020
+confirmed_cases_plot2 <- malaria_africa_spatial %>%
+  mutate(tooltip_label = paste(country_name, ": ", confirmed_rdt_microscopy)) %>% 
+  ggplot(aes(y =  reorder(country_name, confirmed_rdt_microscopy),
+                         x =  confirmed_rdt_microscopy, 
+                          fill = confirmed_rdt_microscopy,
+                         text =  tooltip_label))+
+  geom_col()+
+  labs(title = "Confirmed Malaria cases in Africa in 2020", y = "name of Country", x = "total confirmed cases")+
+  theme_void()
+
+ confirmed_cases_plotly2<- ggplotly(confirmed_cases_plot2, tooltip = "text")
+```
+
+
+```{r}
+confirmed_cases_plotly2
+```
+
+
+
+
+# Test positivity Rate(TPR) and Treat rate
+
+##### Plot of Test Positivity Rate {width="50%"}
+
+```{r}
+#calculate 2020 TPR for each country
+tpr_africa_2020_plot <- malaria_africa_fac %>% 
+  mutate(test_pos_rate = round(confirmed_rdt_microscopy/tested_rdt_microscopy *100, digits = 2))
+
+#merge TPR data with spatial
+tpr_africa_2020_spatial <- left_join(africountries_corrected, tpr_africa_2020_plot, by = c("iso_a3" = "country_code"))
+
+tpr_africa_2020_plot <- tpr_africa_2020_spatial %>% 
+  mutate(tooltip_label = paste(country_name, ": ", test_pos_rate)) %>% 
+  ggplot()+
+  geom_sf(mapping = aes(fill = test_pos_rate, text =  tooltip_label))+
+  annotation_north_arrow(location = "br")+
+  annotation_scale(location = "bl")+
+  labs(title = "Test positivity rate in Africa countries in 2020")+
+  theme_void()
+
+ tpr_africa_2020_plotly <- ggplotly(tpr_africa_2020_plot, tooltip = "text")
+
+```
+
+
+```{r}
+tpr_africa_2020_plotly
+```
+
+
+
+
+##### Plot of Treat with ACT {width="50%"}
+
+```{r}
+treatment_afr_2020 <- malaria_africa_fac %>% 
+  mutate(treatment_rate_afr  = round(person_treated_act/confirmed_rdt_microscopy *100, digits = 2))
+
+#merge TPR data with spatial
+treatment_africa_2020_spatial <- left_join(africountries_corrected, treatment_afr_2020, by = c("iso_a3" = "country_code"))
+
+treatment_mal_afr_2020_plot <- treatment_africa_2020_spatial %>% 
+  mutate(tooltip_label = paste(country_name, ": ", treatment_rate_afr)) %>% 
+  ggplot()+
+  geom_sf(mapping = aes(fill = treatment_rate_afr, text =  tooltip_label))+
+  annotation_north_arrow(location = "br")+
+  annotation_scale(location = "bl")+
+  labs(title = "Treatment rate in Africa countries in 2020")+
+  theme_void()
+
+ txt_africa_2020_plotly <- ggplotly(treatment_mal_afr_2020_plot, tooltip = "text")
+
+```
+
+```{r}
+txt_africa_2020_plotly
+```
+
+
+
+
+#  Download Data
+
+```{r}
+# Load packages 
+if(!require(pacman)) install.packages("pacman")
+pacman::p_load(htmltools, reactable)
+
+htmltools::browsable(
+  tagList(
+    reactable(malaria_africa_fac, 
+              elementId = "malaria-table", 
+              searchable = T, 
+              filterable = T), 
+    
+tags$button("Download as CSV", 
+            onclick = "Reactable.downloadDataCSV('malaria-table')")
+  )
+)
+```
+
+
+
+
+# About 
+ 
+The data is from the WHO Global Health Observatory(GHO) which is a collection of indicators for different diseases reported from various countries and years.
+
+Every year, malaria indicators are reported for the preceding, showing various measures of malaria burden including cases suspected, tested, confirmed, treated with recommended antimalaria medicines and deaths. Recent body of evidenece globally shows that most cases of malaria are in Africa countries, accounting for more than 80%. Malaria is transmitted by the bite of infected female mosquitoes which bite at different times, perpetrated by mosquito-man continuous cycles of interactions. Various interventions are currently being deployed globally to achieve country level elimination and global eradication, with each country at different level of control  in terms of progress towards curbing the disease as a public health burden. However, the risk of the disease spreading in different continents through humans is still considered high due to international activities including travels and commercial activities, and drastic climate changes .
+
+Below is the reflection from the WHO's global director for malaria on the findings of the WMR 2021 which has 2020 malaria data and indicators which were analysed and presented here.
+
+
+
+<iframe width="656" height="369" src="https://www.youtube.com/embed/cBBn41nAW7Y" title="World malaria report 2021 – reflections from WHO’s malaria director" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

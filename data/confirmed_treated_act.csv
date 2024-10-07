@@ -1,0 +1,235 @@
+﻿ParentLocationCode,ParentLocation,SpatialDimValueCode,Location,Period,FactValueNumeric,DateModified
+AMR,Americas,BLZ,Belize,2021,0,5/10/2023 0:00
+AMR,Americas,GTM,Guatemala,2021,0,5/10/2023 0:00
+AMR,Americas,MEX,Mexico,2021,0,5/10/2023 0:00
+AMR,Americas,PAN,Panama,2021,0,5/10/2023 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2021,0,5/10/2023 0:00
+AFR,Africa,TCD,Chad,2021,1012958,5/10/2023 0:00
+AFR,Africa,TGO,Togo,2021,1099350,5/10/2023 0:00
+AFR,Africa,ETH,Ethiopia,2021,1126731,5/10/2023 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2021,1324753,5/10/2023 0:00
+AFR,Africa,CMR,Cameroon,2021,1359417,5/10/2023 0:00
+AFR,Africa,SSD,South Sudan,2021,1618709,5/10/2023 0:00
+AFR,Africa,MDG,Madagascar,2021,1921755,5/10/2023 0:00
+AMR,Americas,PRY,Paraguay,2021,10,5/10/2023 0:00
+SEAR,South-East Asia,IND,India,2021,101566,5/10/2023 0:00
+AFR,Africa,GAB,Gabon,2021,103866,5/10/2023 0:00
+AFR,Africa,BFA,Burkina Faso,2021,11030942,5/10/2023 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2021,118643,5/10/2023 0:00
+AMR,Americas,CRI,Costa Rica,2021,12,5/10/2023 0:00
+AMR,Americas,HND,Honduras,2021,12,5/10/2023 0:00
+AFR,Africa,NAM,Namibia,2021,13738,5/10/2023 0:00
+AFR,Africa,ZWE,Zimbabwe,2021,133926,5/10/2023 0:00
+AMR,Americas,GUY,Guyana,2021,14010,5/10/2023 0:00
+AFR,Africa,UGA,Uganda,2021,14772475,5/10/2023 0:00
+SEAR,South-East Asia,MMR,Myanmar,2021,15127,5/10/2023 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2021,151,5/10/2023 0:00
+AFR,Africa,GNB,Guinea-Bissau,2021,152081,5/10/2023 0:00
+AFR,Africa,ZAF,South Africa,2021,16853,5/10/2023 0:00
+AFR,Africa,COG,Congo,2021,161693,5/10/2023 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2021,18535664,5/10/2023 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2021,2023,5/10/2023 0:00
+AFR,Africa,MLI,Mali,2021,2126004,5/10/2023 0:00
+AFR,Africa,CAF,Central African Republic,2021,2223562,5/10/2023 0:00
+AFR,Africa,GIN,Guinea,2021,2358447,5/10/2023 0:00
+AFR,Africa,STP,Sao Tome and Principe,2021,2515,5/10/2023 0:00
+AFR,Africa,BEN,Benin,2021,2985960,5/10/2023 0:00
+AFR,Africa,CPV,Cabo Verde,2021,21,5/10/2023 0:00
+AFR,Africa,ZMB,Zambia,2021,21379380,5/10/2023 0:00
+AFR,Africa,RWA,Rwanda,2021,219221,5/10/2023 0:00
+SEAR,South-East Asia,IDN,Indonesia,2021,299148,5/10/2023 0:00
+AFR,Africa,NER,Niger,2021,3251475,5/10/2023 0:00
+AFR,Africa,SLE,Sierra Leone,2021,3394004,5/10/2023 0:00
+AMR,Americas,PER,Peru,2021,3595,5/10/2023 0:00
+AFR,Africa,KEN,Kenya,2021,3618614,5/10/2023 0:00
+WPR,Western Pacific,MYS,Malaysia,2021,3663,5/10/2023 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2021,3700843,5/10/2023 0:00
+WPR,Western Pacific,PHL,Philippines,2021,3735,5/10/2023 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2021,3870,5/10/2023 0:00
+WPR,Western Pacific,VUT,Vanuatu,2021,304,5/10/2023 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2021,32582,5/10/2023 0:00
+AFR,Africa,NGA,Nigeria,2021,34236521,5/10/2023 0:00
+AMR,Americas,BRA,Brazil,2021,34952,5/10/2023 0:00
+AFR,Africa,MRT,Mauritania,2021,342,5/10/2023 0:00
+AMR,Americas,COL,Colombia,2021,36531,5/10/2023 0:00
+WPR,Western Pacific,KHM,Cambodia,2021,4270,5/10/2023 0:00
+AFR,Africa,ERI,Eritrea,2021,42056,5/10/2023 0:00
+AMR,Americas,ECU,Ecuador,2021,499,5/10/2023 0:00
+SEAR,South-East Asia,BTN,Bhutan,2021,5,5/10/2023 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2021,5340,5/10/2023 0:00
+AFR,Africa,BDI,Burundi,2021,5693645,5/10/2023 0:00
+AFR,Africa,GHA,Ghana,2021,5728505,5/10/2023 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2021,5868238,5/10/2023 0:00
+AFR,Africa,SEN,Senegal,2021,520738,5/10/2023 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2021,56081,5/10/2023 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2021,6234917,5/10/2023 0:00
+AFR,Africa,MWI,Malawi,2021,6723831,5/10/2023 0:00
+AFR,Africa,SWZ,Eswatini,2021,606,5/10/2023 0:00
+AFR,Africa,AGO,Angola,2021,7793251,5/10/2023 0:00
+AFR,Africa,GMB,Gambia,2021,72247,5/10/2023 0:00
+AFR,Africa,LBR,Liberia,2021,785485,5/10/2023 0:00
+AMR,Americas,SUR,Suriname,2021,8,5/10/2023 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2021,84817,5/10/2023 0:00
+SEAR,South-East Asia,THA,Thailand,2021,86,5/10/2023 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2021,87825,5/10/2023 0:00
+AFR,Africa,COM,Comoros,2021,9609,5/10/2023 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2021,9959,5/10/2023 0:00
+AFR,Africa,MOZ,Mozambique,2021,9979416,5/10/2023 0:00
+SEAR,South-East Asia,NPL,Nepal,2021,92,5/10/2023 0:00
+AMR,Americas,BLZ,Belize,2020,0,5/10/2023 0:00
+AMR,Americas,MEX,Mexico,2020,0,5/10/2023 0:00
+AFR,Africa,RWA,Rwanda,2020,1048450,5/10/2023 0:00
+AFR,Africa,CMR,Cameroon,2020,1122865,5/10/2023 0:00
+AFR,Africa,ETH,Ethiopia,2020,1197131,5/10/2023 0:00
+AFR,Africa,TCD,Chad,2020,1452420,5/10/2023 0:00
+AFR,Africa,MDG,Madagascar,2020,1667856,5/10/2023 0:00
+AFR,Africa,TGO,Togo,2020,1715787,5/10/2023 0:00
+AFR,Africa,CAF,Central African Republic,2020,1740970,5/10/2023 0:00
+AFR,Africa,STP,Sao Tome and Principe,2020,1772,5/10/2023 0:00
+AFR,Africa,GIN,Guinea,2020,1792653,5/10/2023 0:00
+AFR,Africa,MLI,Mali,2020,1793074,5/10/2023 0:00
+AFR,Africa,CPV,Cabo Verde,2020,10,5/10/2023 0:00
+AFR,Africa,BFA,Burkina Faso,2020,10237424,5/10/2023 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2020,100136,5/10/2023 0:00
+AFR,Africa,COG,Congo,2020,103692,5/10/2023 0:00
+AFR,Africa,MOZ,Mozambique,2020,11132323,5/10/2023 0:00
+SEAR,South-East Asia,IND,India,2020,119087,5/10/2023 0:00
+AMR,Americas,HND,Honduras,2020,12,5/10/2023 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2020,12093,5/10/2023 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2020,126,5/10/2023 0:00
+AMR,Americas,SUR,Suriname,2020,127,5/10/2023 0:00
+AFR,Africa,NAM,Namibia,2020,13636,5/10/2023 0:00
+AMR,Americas,GUY,Guyana,2020,13980,5/10/2023 0:00
+AFR,Africa,GNB,Guinea-Bissau,2020,137821,5/10/2023 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2020,14,5/10/2023 0:00
+AFR,Africa,UGA,Uganda,2020,14656782,5/10/2023 0:00
+SEAR,South-East Asia,MMR,Myanmar,2020,15572,5/10/2023 0:00
+AFR,Africa,ZAF,South Africa,2020,16028,5/10/2023 0:00
+SEAR,South-East Asia,THA,Thailand,2020,175,5/10/2023 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2020,19192707,5/10/2023 0:00
+AFR,Africa,NGA,Nigeria,2020,19902369,5/10/2023 0:00
+AFR,Africa,BEN,Benin,2020,2095303,5/10/2023 0:00
+WPR,Western Pacific,MYS,Malaysia,2020,2829,5/10/2023 0:00
+AMR,Americas,BRA,Brazil,2020,23691,5/10/2023 0:00
+SEAR,South-East Asia,IDN,Indonesia,2020,241181,5/10/2023 0:00
+AMR,Americas,ECU,Ecuador,2020,243,5/10/2023 0:00
+EMR,Eastern Mediterranean,SOM,Somalia,2020,27333,5/10/2023 0:00
+AMR,Americas,PER,Peru,2020,3198,5/10/2023 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2020,3231,5/10/2023 0:00
+AFR,Africa,NER,Niger,2020,3350428,5/10/2023 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2020,3477,5/10/2023 0:00
+AFR,Africa,GAB,Gabon,2020,30819,5/10/2023 0:00
+AFR,Africa,SWZ,Eswatini,2020,316,5/10/2023 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2020,347500,5/10/2023 0:00
+SEAR,South-East Asia,NPL,Nepal,2020,39,5/10/2023 0:00
+AMR,Americas,COL,Colombia,2020,39879,5/10/2023 0:00
+AFR,Africa,BDI,Burundi,2020,4289288,5/10/2023 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2020,4365387,5/10/2023 0:00
+AFR,Africa,COM,Comoros,2020,4546,5/10/2023 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2020,4863826,5/10/2023 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2020,4885,5/10/2023 0:00
+WPR,Western Pacific,PHL,Philippines,2020,4890,5/10/2023 0:00
+AFR,Africa,SEN,Senegal,2020,442413,5/10/2023 0:00
+AFR,Africa,ZWE,Zimbabwe,2020,443164,5/10/2023 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2020,48292,5/10/2023 0:00
+WPR,Western Pacific,VUT,Vanuatu,2020,496,5/10/2023 0:00
+AMR,Americas,PAN,Panama,2020,5,5/10/2023 0:00
+AFR,Africa,GHA,Ghana,2020,5174075,5/10/2023 0:00
+AFR,Africa,AGO,Angola,2020,5797209,5/10/2023 0:00
+AFR,Africa,KEN,Kenya,2020,5899605,5/10/2023 0:00
+AFR,Africa,LBR,Liberia,2020,621695,5/10/2023 0:00
+AFR,Africa,SLE,Sierra Leone,2020,658948,5/10/2023 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2020,69029,5/10/2023 0:00
+AFR,Africa,MWI,Malawi,2020,7095977,5/10/2023 0:00
+AFR,Africa,ZMB,Zambia,2020,7473255,5/10/2023 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2020,7759228,5/10/2023 0:00
+AFR,Africa,GMB,Gambia,2020,72300,5/10/2023 0:00
+AFR,Africa,ERI,Eritrea,2020,73419,5/10/2023 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2020,750254,5/10/2023 0:00
+AFR,Africa,MRT,Mauritania,2020,760,5/10/2023 0:00
+SEAR,South-East Asia,BTN,Bhutan,2020,8,5/10/2023 0:00
+AMR,Americas,PRY,Paraguay,2020,80,5/10/2023 0:00
+WPR,Western Pacific,VNM,Viet Nam,2020,818,5/10/2023 0:00
+AFR,Africa,SSD,South Sudan,2020,822563,5/10/2023 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2020,86319,5/10/2023 0:00
+WPR,Western Pacific,KHM,Cambodia,2020,9176,5/10/2023 0:00
+AFR,Africa,BWA,Botswana,2020,953,5/10/2023 0:00
+AMR,Americas,BLZ,Belize,2019,0,5/10/2023 0:00
+AFR,Africa,MDG,Madagascar,2019,1008480,5/10/2023 0:00
+AFR,Africa,CMR,Cameroon,2019,1157011,5/10/2023 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2019,1515,5/10/2023 0:00
+AFR,Africa,TCD,Chad,2019,1595351,5/10/2023 0:00
+AFR,Africa,GIN,Guinea,2019,1646493,5/10/2023 0:00
+AFR,Africa,MOZ,Mozambique,2019,10742632,5/10/2023 0:00
+SEAR,South-East Asia,BTN,Bhutan,2019,11,5/10/2023 0:00
+AFR,Africa,BFA,Burkina Faso,2019,11223002,5/10/2023 0:00
+AFR,Africa,COM,Comoros,2019,11593,5/10/2023 0:00
+AFR,Africa,GAB,Gabon,2019,117126,5/10/2023 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2019,118145,5/10/2023 0:00
+AMR,Americas,MEX,Mexico,2019,12,5/10/2023 0:00
+AFR,Africa,SSD,South Sudan,2019,122665,5/10/2023 0:00
+AFR,Africa,ZAF,South Africa,2019,13833,5/10/2023 0:00
+AFR,Africa,GNB,Guinea-Bissau,2019,140478,5/10/2023 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2019,15099,5/10/2023 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2019,158,5/10/2023 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2019,18853209,5/10/2023 0:00
+AFR,Africa,ZMB,Zambia,2019,19134471,5/10/2023 0:00
+AMR,Americas,GTM,Guatemala,2019,2,5/10/2023 0:00
+AFR,Africa,TGO,Togo,2019,2266412,5/10/2023 0:00
+AFR,Africa,BEN,Benin,2019,2353657,5/10/2023 0:00
+AFR,Africa,SLE,Sierra Leone,2019,2404286,5/10/2023 0:00
+AFR,Africa,STP,Sao Tome and Principe,2019,2457,5/10/2023 0:00
+AFR,Africa,CAF,Central African Republic,2019,2602171,5/10/2023 0:00
+AFR,Africa,MLI,Mali,2019,2826112,5/10/2023 0:00
+AMR,Americas,SUR,Suriname,2019,202,5/10/2023 0:00
+AFR,Africa,NGA,Nigeria,2019,21252650,5/10/2023 0:00
+SEAR,South-East Asia,MMR,Myanmar,2019,23623,5/10/2023 0:00
+AFR,Africa,COG,Congo,2019,233389,5/10/2023 0:00
+SEAR,South-East Asia,IDN,Indonesia,2019,234381,5/10/2023 0:00
+AMR,Americas,ECU,Ecuador,2019,265,5/10/2023 0:00
+AFR,Africa,BWA,Botswana,2019,272,5/10/2023 0:00
+AMR,Americas,PAN,Panama,2019,3,5/10/2023 0:00
+AFR,Africa,NER,Niger,2019,3015081,5/10/2023 0:00
+WPR,Western Pacific,VNM,Viet Nam,2019,3134,5/10/2023 0:00
+AFR,Africa,NAM,Namibia,2019,3404,5/10/2023 0:00
+AFR,Africa,RWA,Rwanda,2019,3545251,5/10/2023 0:00
+WPR,Western Pacific,MYS,Malaysia,2019,3923,5/10/2023 0:00
+AFR,Africa,ZWE,Zimbabwe,2019,304309,5/10/2023 0:00
+WPR,Western Pacific,KHM,Cambodia,2019,31883,5/10/2023 0:00
+SEAR,South-East Asia,IND,India,2019,338494,5/10/2023 0:00
+AFR,Africa,SEN,Senegal,2019,339598,5/10/2023 0:00
+EMR,Eastern Mediterranean,SOM,Somalia,2019,38112,5/10/2023 0:00
+AMR,Americas,COL,Colombia,2019,39891,5/10/2023 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2019,4297167,5/10/2023 0:00
+AMR,Americas,PER,Peru,2019,4724,5/10/2023 0:00
+WPR,Western Pacific,PHL,Philippines,2019,4845,5/10/2023 0:00
+AFR,Africa,CPV,Cabo Verde,2019,40,5/10/2023 0:00
+AMR,Americas,HND,Honduras,2019,45,5/10/2023 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2019,47691,5/10/2023 0:00
+AFR,Africa,KEN,Kenya,2019,5004487,5/10/2023 0:00
+AFR,Africa,MWI,Malawi,2019,5089716,5/10/2023 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2019,5200350,5/10/2023 0:00
+AFR,Africa,AGO,Angola,2019,5575259,5/10/2023 0:00
+AFR,Africa,GMB,Gambia,2019,53385,5/10/2023 0:00
+SEAR,South-East Asia,THA,Thailand,2019,536,5/10/2023 0:00
+WPR,Western Pacific,VUT,Vanuatu,2019,571,5/10/2023 0:00
+AFR,Africa,SWZ,Eswatini,2019,580,5/10/2023 0:00
+AFR,Africa,GHA,Ghana,2019,6164160,5/10/2023 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2019,6385075,5/10/2023 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2019,6550,5/10/2023 0:00
+SEAR,South-East Asia,NPL,Nepal,2019,63,5/10/2023 0:00
+AFR,Africa,ERI,Eritrea,2019,65697,5/10/2023 0:00
+AMR,Americas,DOM,Dominican Republic,2019,7,5/10/2023 0:00
+AMR,Americas,GUY,Guyana,2019,7052,5/10/2023 0:00
+AFR,Africa,LBR,Liberia,2019,732322,5/10/2023 0:00
+AMR,Americas,BRA,Brazil,2019,74360,5/10/2023 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2019,788796,5/10/2023 0:00
+AFR,Africa,BDI,Burundi,2019,8444710,5/10/2023 0:00
+AMR,Americas,PRY,Paraguay,2019,80,5/10/2023 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2019,83364,5/10/2023 0:00
+AFR,Africa,ETH,Ethiopia,2019,836293,5/10/2023 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2019,9,5/10/2023 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2019,9357,5/10/2023 0:00
+AFR,Africa,UGA,Uganda,2019,9728920,5/10/2023 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2019,90153,5/10/2023 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2019,90178,5/10/2023 0:00

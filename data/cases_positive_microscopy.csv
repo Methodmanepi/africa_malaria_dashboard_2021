@@ -1,0 +1,1009 @@
+﻿ParentLocationCode,ParentLocation,SpatialDimValueCode,Location,Period,FactValueNumeric,DateModified
+AMR,Americas,ARG,Argentina,2020,0,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2020,0,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2020,0,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2020,0,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2020,0,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2020,0,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2020,1046,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2020,1051,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2020,1058,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2020,1162,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2020,1214424,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2020,1229,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2020,1262841,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2020,1309,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2020,1358,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2020,1401009,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2020,1446,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2020,1544,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2020,1618,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2020,1646648,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2020,1647933,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2020,1743755,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2020,10,2/10/2022 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2020,11633,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2020,117568,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2020,121,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2020,127403,2/10/2022 0:00
+AFR,Africa,ZMB,Zambia,2020,128291,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2020,14,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2020,141,2/10/2022 0:00
+AMR,Americas,PER,Peru,2020,15822,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2020,16535,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2020,168,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2020,17936,2/10/2022 0:00
+AFR,Africa,CAF,Central African Republic,2020,177742,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2020,18799,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2020,19621,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2020,192769,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2020,193816,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2020,197466,2/10/2022 0:00
+EUR,Europe,UZB,Uzbekistan,2020,2,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2020,2167,2/10/2022 0:00
+AFR,Africa,NGA,Nigeria,2020,2312163,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2020,2359788,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2020,2726,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2020,2792,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2020,2839,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2020,22,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2020,22226,2/10/2022 0:00
+AFR,Africa,NER,Niger,2020,223601,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2020,238,2/10/2022 0:00
+AFR,Africa,BEN,Benin,2020,242780,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2020,26925,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2020,262,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2020,29,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2020,296052,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2020,297,2/10/2022 0:00
+EUR,Europe,ARM,Armenia,2020,3,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2020,3339,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2020,3658,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2020,3881,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2020,30,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2020,33349,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2020,369,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2020,38923,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2020,386,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2020,4,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2020,40155,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2020,46,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2020,473160,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2020,493480,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2020,5075,2/10/2022 0:00
+AFR,Africa,MLI,Mali,2020,541755,2/10/2022 0:00
+AFR,Africa,COG,Congo,2020,55348,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2020,622,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2020,65468,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2020,709,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2020,71001,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2020,756441,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2020,8507,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2020,8932,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2020,81017,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2020,81201,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2020,829,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2020,83859,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2020,913,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2020,932627,2/10/2022 0:00
+AFR,Africa,CMR,Cameroon,2020,956647,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2020,97008,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2019,0,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2019,0,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2019,0,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2019,1,2/10/2022 0:00
+EUR,Europe,UZB,Uzbekistan,2019,1,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2019,1014,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2019,1050,2/10/2022 0:00
+AFR,Africa,CMR,Cameroon,2019,1097615,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2019,1128371,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2019,1144762,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2019,1160426,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2019,1190,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2019,1209,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2019,1237,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2019,1311,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2019,1314,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2019,1370,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2019,1408242,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2019,1428,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2019,1622576,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2019,1759011,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2019,10982,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2019,102,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2019,104350,2/10/2022 0:00
+EMR,Eastern Mediterranean,SOM,Somalia,2019,11615,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2019,112966,2/10/2022 0:00
+AFR,Africa,COG,Congo,2019,117837,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2019,12337,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2019,125804,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2019,13840,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2019,132750,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2019,14787,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2019,145,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2019,146868,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2019,152127,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2019,18117,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2019,18239,2/10/2022 0:00
+AFR,Africa,CAF,Central African Republic,2019,196413,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2019,2,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2019,2072,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2019,2152,2/10/2022 0:00
+AFR,Africa,NGA,Nigeria,2019,2476514,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2019,2481,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2019,2557385,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2019,2635,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2019,209,2/10/2022 0:00
+AFR,Africa,NER,Niger,2019,211783,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2019,212,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2019,212995,2/10/2022 0:00
+AMR,Americas,PER,Peru,2019,24324,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2019,26,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2019,269526,2/10/2022 0:00
+AFR,Africa,BEN,Benin,2019,294518,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2019,3,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2019,3,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2019,3941,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2019,30328,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2019,301,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2019,306,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2019,31184,2/10/2022 0:00
+AFR,Africa,LBR,Liberia,2019,325658,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2019,35055,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2019,366673,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2019,38,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2019,39684,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2019,391,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2019,398285,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2019,4170,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2019,4656702,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2019,4765,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2019,40,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2019,45675,2/10/2022 0:00
+AFR,Africa,MLI,Mali,2019,468011,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2019,47806,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2019,477,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2019,5932,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2019,51,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2019,52582,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2019,559,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2019,608016,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2019,641,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2019,71389,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2019,765,2/10/2022 0:00
+AFR,Africa,ZMB,Zambia,2019,78474,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2019,8,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2019,8118,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2019,886,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2019,898,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2019,9,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2019,9352,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2019,904495,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2019,918371,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2018,0,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2018,0,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2018,1,2/10/2022 0:00
+AFR,Africa,NGA,Nigeria,2018,1023273,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2018,1093,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2018,1105348,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2018,1135,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2018,1148316,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2018,1158,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2018,1242,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2018,1251544,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2018,1586,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2018,1589,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2018,1657793,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2018,10325,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2018,104960,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2018,108,2/10/2022 0:00
+AFR,Africa,COG,Congo,2018,116903,2/10/2022 0:00
+AFR,Africa,CAF,Central African Republic,2018,117267,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2018,119099,2/10/2022 0:00
+AFR,Africa,NER,Niger,2018,121657,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2018,137501,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2018,14510,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2018,148,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2018,15607,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2018,15934,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2018,17825,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2018,181967,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2018,190573,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2018,2,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2018,2,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2018,2442500,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2018,2511,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2018,2577,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2018,2666,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2018,2711,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2018,21,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2018,218,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2018,229267,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2018,23,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2018,230432,2/10/2022 0:00
+AFR,Africa,BEN,Benin,2018,258519,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2018,289,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2018,3021,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2018,3446,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2018,3997,2/10/2022 0:00
+AFR,Africa,MLI,Mali,2018,301880,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2018,322,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2018,34735,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2018,4135,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2018,4630,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2018,4813,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2018,404924,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2018,42810,2/10/2022 0:00
+AFR,Africa,CMR,Cameroon,2018,428888,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2018,45564,2/10/2022 0:00
+AMR,Americas,PER,Peru,2018,45619,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2018,458909,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2018,48,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2018,49,2/10/2022 0:00
+AFR,Africa,ZMB,Zambia,2018,49855,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2018,5171,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2018,5261,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2018,53,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2018,56989,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2018,569,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2018,576,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2018,59652,2/10/2022 0:00
+EUR,Europe,ARM,Armenia,2018,6,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2018,625,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2018,634,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2018,64233,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2018,653,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2018,696124,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2018,7,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2018,7400,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2018,715,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2018,743435,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2018,77119,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2018,8,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2018,8318,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2018,8719,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2018,826,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2018,827947,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2018,831903,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2018,88112,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2018,9,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2018,9197,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2018,957,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2018,962087,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2018,995577,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2017,1,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2017,1064354,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2017,1089799,2/10/2022 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2017,1283,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2017,1283,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2017,1291717,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2017,1293,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2017,1325,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2017,1380,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2017,1530739,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2017,1575,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2017,1694441,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2017,10463,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2017,10952,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2017,109,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2017,11343,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2017,120,2/10/2022 0:00
+AFR,Africa,NER,Niger,2017,125856,2/10/2022 0:00
+AFR,Africa,COG,Congo,2017,127939,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2017,13734,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2017,132580,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2017,14519,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2017,15978,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2017,18,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2017,184876,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2017,194866,2/10/2022 0:00
+EUR,Europe,ARM,Armenia,2017,2,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2017,2,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2017,2119,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2017,2199810,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2017,2215665,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2017,2269831,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2017,2663,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2017,2927780,2/10/2022 0:00
+AFR,Africa,BEN,Benin,2017,208823,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2017,209626,2/10/2022 0:00
+EUR,Europe,TUR,Türkiye,2017,214,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2017,25,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2017,261617,2/10/2022 0:00
+AFR,Africa,MLI,Mali,2017,276673,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2017,28297,2/10/2022 0:00
+AFR,Africa,CAF,Central African Republic,2017,28855,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2017,28936,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2017,3,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2017,3151,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2017,3325,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2017,3744,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2017,30,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2017,306768,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2017,335642,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2017,364,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2017,38,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2017,38349,2/10/2022 0:00
+AFR,Africa,CMR,Cameroon,2017,390130,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2017,398,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2017,4,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2017,4114,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2017,4334,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2017,4463,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2017,4548,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2017,4648,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2017,412,2/10/2022 0:00
+AFR,Africa,LBR,Liberia,2017,425639,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2017,446,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2017,453,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2017,46099,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2017,46411,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2017,5,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2017,5134,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2017,5717,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2017,5908,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2017,51,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2017,515,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2017,525897,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2017,53770,2/10/2022 0:00
+AMR,Americas,PER,Peru,2017,55367,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2017,588100,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2017,588969,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2017,6800,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2017,64211,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2017,68,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2017,689,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2017,7154,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2017,70449,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2017,700282,2/10/2022 0:00
+AFR,Africa,NGA,Nigeria,2017,749118,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2017,765,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2017,8,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2017,874,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2017,9,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2017,9592,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2017,916742,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2017,939,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2016,1,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2016,1,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2016,1009,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2016,1087285,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2016,1189012,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2016,1191,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2016,1219,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2016,1262679,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2016,1542091,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2016,1569045,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2016,1718504,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2016,1847143,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2016,10,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2016,10906,2/10/2022 0:00
+AFR,Africa,BEN,Benin,2016,104601,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2016,11301,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2016,124210,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2016,125623,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2016,13,2/10/2022 0:00
+AFR,Africa,COG,Congo,2016,134612,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2016,14,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2016,141,2/10/2022 0:00
+AFR,Africa,CAF,Central African Republic,2016,144924,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2016,151528,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2016,154541,2/10/2022 0:00
+EUR,Europe,ARM,Armenia,2016,2,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2016,2058128,2/10/2022 0:00
+AFR,Africa,NER,Niger,2016,2120515,2/10/2022 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2016,2280,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2016,2302,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2016,2357,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2016,2367,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2016,2520622,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2016,2860,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2016,2916902,2/10/2022 0:00
+EUR,Europe,TUR,Türkiye,2016,208,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2016,218450,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2016,22419,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2016,225,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2016,231919,2/10/2022 0:00
+AFR,Africa,MLI,Mali,2016,235212,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2016,24251,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2016,26187,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2016,26397,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2016,3150,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2016,3217,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2016,3695,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2016,3734,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2016,301466,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2016,315,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2016,329,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2016,33,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2016,378308,2/10/2022 0:00
+AFR,Africa,LBR,Liberia,2016,381781,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2016,4097,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2016,4161,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2016,4342,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2016,4854,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2016,4890,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2016,40,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2016,432,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2016,45886,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2016,484,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2016,5,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2016,5382,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2016,5553,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2016,53014,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2016,53805,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2016,559,2/10/2022 0:00
+AMR,Americas,PER,Peru,2016,56623,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2016,57515,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2016,579566,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2016,59,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2016,596,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2016,6,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2016,6284,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2016,6717,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2016,60458,2/10/2022 0:00
+AFR,Africa,NGA,Nigeria,2016,618363,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2016,662,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2016,674697,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2016,7,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2016,7,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2016,705,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2016,720765,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2016,75,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2016,80077,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2016,80472,2/10/2022 0:00
+AFR,Africa,CMR,Cameroon,2016,810367,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2016,811,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2016,9918,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2016,94,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2016,96538,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2015,1,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2015,1,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2015,1025508,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2015,1112,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2015,1169261,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2015,1248576,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2015,1396773,2/10/2022 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2015,1764,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2015,1867059,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2015,1902640,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2015,1964862,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2015,103377,2/10/2022 0:00
+AFR,Africa,CAF,Central African Republic,2015,106524,2/10/2022 0:00
+AFR,Africa,BEN,Benin,2015,108061,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2015,11,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2015,11272,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2015,118,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2015,13,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2015,137401,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2015,137996,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2015,139844,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2015,14750,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2015,14793,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2015,140,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2015,149574,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2015,15,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2015,17846,2/10/2022 0:00
+EUR,Europe,ARM,Armenia,2015,2,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2015,2308,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2015,2311,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2015,2354400,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2015,2620,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2015,20390,2/10/2022 0:00
+AFR,Africa,NER,Niger,2015,206660,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2015,217025,2/10/2022 0:00
+EUR,Europe,TUR,Türkiye,2015,221,2/10/2022 0:00
+AFR,Africa,MLI,Mali,2015,243151,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2015,28,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2015,3251,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2015,3555,2/10/2022 0:00
+AFR,Africa,LBR,Liberia,2015,305981,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2015,317578,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2015,345,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2015,35,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2015,37820,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2015,4,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2015,4748,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2015,412702,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2015,42052,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2015,43,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2015,45789,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2015,478870,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2015,48059,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2015,49649,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2015,5,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2015,5224,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2015,5538,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2015,5694,2/10/2022 0:00
+AFR,Africa,COG,Congo,2015,51529,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2015,52211,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2015,551,2/10/2022 0:00
+AFR,Africa,NGA,Nigeria,2015,556871,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2015,562,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2015,586827,2/10/2022 0:00
+AFR,Africa,CMR,Cameroon,2015,592351,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2015,6198,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2015,6453,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2015,6621,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2015,6907,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2015,64719,2/10/2022 0:00
+AMR,Americas,PER,Peru,2015,66609,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2015,661,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2015,686,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2015,692,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2015,7010,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2015,7423,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2015,735750,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2015,747,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2015,75923,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2015,785,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2015,799,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2015,8,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2015,8,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2015,8332,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2015,8564,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2015,80,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2015,84,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2015,9,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2015,9331,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2015,9984,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2015,92589,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2015,934304,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2015,963,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2014,0,2/10/2022 0:00
+EUR,Europe,ARM,Armenia,2014,1,2/10/2022 0:00
+EUR,Europe,UZB,Uzbekistan,2014,1,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2014,1009496,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2014,1102205,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2014,1163,2/10/2022 0:00
+AFR,Africa,NGA,Nigeria,2014,1233654,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2014,1243,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2014,1431313,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2014,1469,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2014,1541189,2/10/2022 0:00
+AFR,Africa,NER,Niger,2014,1953279,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2014,1987,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2014,10535,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2014,10629,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2014,10893,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2014,10993,2/10/2022 0:00
+AFR,Africa,BEN,Benin,2014,108714,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2014,12010,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2014,12354,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2014,13628,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2014,13865,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2014,142744,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2014,15,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2014,15752,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2014,160260,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2014,17685,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2014,18344,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2014,19,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2014,190,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2014,193952,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2014,2,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2014,2118815,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2014,2126554,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2014,2305,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2014,2415950,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2014,2718391,2/10/2022 0:00
+AFR,Africa,MLI,Mali,2014,219637,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2014,222,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2014,242,2/10/2022 0:00
+EUR,Europe,TUR,Türkiye,2014,249,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2014,252027,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2014,266,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2014,268912,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2014,27687,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2014,3079,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2014,3380,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2014,3618,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2014,3853,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2014,3923,2/10/2022 0:00
+AFR,Africa,LBR,Liberia,2014,302708,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2014,306926,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2014,310207,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2014,347,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2014,35546,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2014,36166,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2014,37921,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2014,39414,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2014,4101,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2014,4931,2/10/2022 0:00
+AFR,Africa,CAF,Central African Republic,2014,41436,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2014,45,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2014,46,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2014,48,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2014,496,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2014,5,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2014,5288,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2014,51768,2/10/2022 0:00
+AFR,Africa,COG,Congo,2014,54523,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2014,569,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2014,572289,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2014,578289,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2014,579038,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2014,6,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2014,635,2/10/2022 0:00
+AMR,Americas,PER,Peru,2014,65252,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2014,66253,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2014,666,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2014,68118,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2014,7,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2014,7401,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2014,711,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2014,77635,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2014,8,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2014,8,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2014,82818,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2014,83259,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2014,83920,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2014,874,2/10/2022 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2014,9439,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2014,91918,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2014,970448,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2014,98,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2013,1025,2/10/2022 0:00
+AFR,Africa,NER,Niger,2013,1176711,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2013,1196,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2013,1197,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2013,1374,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2013,1462941,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2013,1481759,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2013,1502362,2/10/2022 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2013,1684,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2013,10890,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2013,11,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2013,11,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2013,11235,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2013,11487,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2013,136,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2013,14,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2013,14407,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2013,17128,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2013,17733,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2013,174048,2/10/2022 0:00
+AFR,Africa,MLI,Mali,2013,190337,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2013,196078,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2013,2060608,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2013,2366134,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2013,2513,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2013,2572,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2013,2611478,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2013,2645454,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2013,206082,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2013,21540,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2013,215104,2/10/2022 0:00
+EUR,Europe,TUR,Türkiye,2013,251,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2013,26,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2013,26432,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2013,26509,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2013,26543,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2013,262520,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2013,272984,2/10/2022 0:00
+EUR,Europe,UZB,Uzbekistan,2013,3,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2013,3850,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2013,31479,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2013,33302,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2013,343527,2/10/2022 0:00
+AFR,Africa,CAF,Central African Republic,2013,36943,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2013,366687,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2013,378,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2013,4,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2013,4,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2013,4205,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2013,4598,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2013,4947,2/10/2022 0:00
+AFR,Africa,COG,Congo,2013,43232,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2013,44293,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2013,44501,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2013,443,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2013,45,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2013,46,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2013,46114,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2013,46130,2/10/2022 0:00
+AMR,Americas,PER,Peru,2013,48719,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2013,488,2/10/2022 0:00
+AFR,Africa,LBR,Liberia,2013,496269,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2013,499,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2013,5364,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2013,5826,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2013,530,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2013,579,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2013,592383,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2013,6,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2013,6214,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2013,6272,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2013,6352,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2013,603,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2013,63353,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2013,63484,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2013,65666,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2013,7,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2013,7,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2013,7303,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2013,70658,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2013,705,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2013,721898,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2013,76077,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2013,767,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2013,774891,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2013,80320,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2013,82875,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2013,879316,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2013,881730,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2013,93,2/10/2022 0:00
+AFR,Africa,MRT,Mauritania,2013,957,2/10/2022 0:00
+AFR,Africa,BEN,Benin,2013,99368,2/10/2022 0:00
+EUR,Europe,UZB,Uzbekistan,2012,1,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2012,1056563,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2012,1067824,2/10/2022 0:00
+AFR,Africa,NER,Niger,2012,1119929,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2012,1235,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2012,1413149,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2012,1426719,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2012,1484676,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2012,1629,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2012,1632,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2012,1659,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2012,1692578,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2012,1772736,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2012,10124,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2012,10706,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2012,104533,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2012,107563,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2012,11557,2/10/2022 0:00
+AFR,Africa,COG,Congo,2012,120319,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2012,13196,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2012,13206,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2012,15,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2012,16,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2012,18694,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2012,19638,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2012,191421,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2012,194,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2012,2603,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2012,2656864,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2012,2971699,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2012,20,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2012,21850,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2012,21904,2/10/2022 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2012,22,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2012,225371,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2012,23547,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2012,237978,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2012,250526,2/10/2022 0:00
+AFR,Africa,MRT,Mauritania,2012,255,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2012,260535,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2012,27866,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2012,280241,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2012,283138,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2012,29325,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2012,3,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2012,3406,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2012,3667,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2012,306,2/10/2022 0:00
+AMR,Americas,PER,Peru,2012,31436,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2012,31601,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2012,32569,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2012,345,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2012,36,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2012,37,2/10/2022 0:00
+EUR,Europe,TUR,Türkiye,2012,376,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2012,39,2/10/2022 0:00
+EUR,Europe,ARM,Armenia,2012,4,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2012,4,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2012,4,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2012,4725,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2012,417819,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2012,422224,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2012,45507,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2012,5208,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2012,5346,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2012,50938,2/10/2022 0:00
+AFR,Africa,LBR,Liberia,2012,507967,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2012,52803,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2012,526931,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2012,54840,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2012,555,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2012,558,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2012,6293,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2012,6439,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2012,67202,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2012,7133,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2012,7710,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2012,71300,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2012,733,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2012,74,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2012,75220,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2012,8,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2012,82,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2012,842,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2012,844,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2012,886143,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2012,887,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2012,9901,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2012,90089,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2012,952,2/10/2022 0:00
+AFR,Africa,MLI,Mali,2012,97995,2/10/2022 0:00
+EUR,Europe,UZB,Uzbekistan,2011,1,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2011,1002805,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2011,1093742,2/10/2022 0:00
+AFR,Africa,MRT,Mauritania,2011,1130,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2011,1130,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2011,1147473,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2011,1232,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2011,1310656,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2011,1480360,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2011,1485332,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2011,1616,2/10/2022 0:00
+EMR,Eastern Mediterranean,SOM,Somalia,2011,1627,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2011,1813654,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2011,1910,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2011,10,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2011,100,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2011,112024,2/10/2022 0:00
+EUR,Europe,TUR,Türkiye,2011,128,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2011,13792,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2011,130,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2011,134726,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2011,14478,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2011,15,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2011,15308,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2011,16612,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2011,16760,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2011,17,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2011,175,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2011,19739,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2011,191,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2011,194,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2011,2077,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2011,2700818,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2011,2788,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2011,20232,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2011,20601,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2011,208858,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2011,21320,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2011,22278,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2011,224619,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2011,23202,2/10/2022 0:00
+AMR,Americas,PER,Peru,2011,25005,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2011,25511,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2011,266713,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2011,274119,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2011,28,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2011,287592,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2011,29471,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2011,29976,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2011,3239,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2011,3367,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2011,3447,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2011,335,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2011,34350,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2011,354,2/10/2022 0:00
+AFR,Africa,COG,Congo,2011,37744,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2011,422447,2/10/2022 0:00
+AFR,Africa,BWA,Botswana,2011,432,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2011,45824,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2011,5,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2011,5,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2011,5306,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2011,5450,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2011,5986,2/10/2022 0:00
+AFR,Africa,MWI,Malawi,2011,50526,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2011,506806,2/10/2022 0:00
+AFR,Africa,LBR,Liberia,2011,577641,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2011,6108,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2011,6223,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2011,6373,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2011,6817,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2011,60121,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2011,60751,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2011,624756,2/10/2022 0:00
+AFR,Africa,NER,Niger,2011,68529,2/10/2022 0:00
+AFR,Africa,BEN,Benin,2011,68745,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2011,7618,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2011,70603,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2011,71588,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2011,751,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2011,77549,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2011,79,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2011,8,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2011,83857,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2011,838,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2011,86348,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2011,9552,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2011,91752,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2011,925,2/10/2022 0:00
+EUR,Europe,GEO,Georgia,2010,0,2/10/2022 0:00
+EUR,Europe,ARM,Armenia,2010,1,2/10/2022 0:00
+EMR,Eastern Mediterranean,DJI,Djibouti,2010,1010,2/10/2022 0:00
+AFR,Africa,GHA,Ghana,2010,1029384,2/10/2022 0:00
+AFR,Africa,BWA,Botswana,2010,1046,2/10/2022 0:00
+AFR,Africa,ETH,Ethiopia,2010,1196829,2/10/2022 0:00
+AMR,Americas,MEX,Mexico,2010,1233,2/10/2022 0:00
+AFR,Africa,TZA,United Republic of Tanzania,2010,1277388,2/10/2022 0:00
+AFR,Africa,AGO,Angola,2010,1324264,2/10/2022 0:00
+AMR,Americas,SUR,Suriname,2010,1574,2/10/2022 0:00
+AFR,Africa,BDI,Burundi,2010,1599908,2/10/2022 0:00
+SEAR,South-East Asia,IND,India,2010,1599986,2/10/2022 0:00
+AFR,Africa,UGA,Uganda,2010,1628595,2/10/2022 0:00
+WPR,Western Pacific,KOR,Republic of Korea,2010,1772,2/10/2022 0:00
+AMR,Americas,ECU,Ecuador,2010,1888,2/10/2022 0:00
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2010,1941,2/10/2022 0:00
+SEAR,South-East Asia,MMR,Myanmar,2010,103285,2/10/2022 0:00
+AMR,Americas,ARG,Argentina,2010,109,2/10/2022 0:00
+AMR,Americas,CRI,Costa Rica,2010,114,2/10/2022 0:00
+EUR,Europe,TJK,Tajikistan,2010,116,2/10/2022 0:00
+AMR,Americas,COL,Colombia,2010,117637,2/10/2022 0:00
+AMR,Americas,BOL,Bolivia (Plurinational State of),2010,12252,2/10/2022 0:00
+AFR,Africa,GAB,Gabon,2010,12816,2/10/2022 0:00
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2010,13520,2/10/2022 0:00
+AFR,Africa,ERI,Eritrea,2010,13894,2/10/2022 0:00
+WPR,Western Pacific,KHM,Cambodia,2010,14277,2/10/2022 0:00
+AMR,Americas,BLZ,Belize,2010,150,2/10/2022 0:00
+WPR,Western Pacific,VNM,Viet Nam,2010,17515,2/10/2022 0:00
+WPR,Western Pacific,PHL,Philippines,2010,18560,2/10/2022 0:00
+AFR,Africa,MDG,Madagascar,2010,2173,2/10/2022 0:00
+AFR,Africa,STP,Sao Tome and Principe,2010,2233,2/10/2022 0:00
+AFR,Africa,COD,Democratic Republic of the Congo,2010,2374930,2/10/2022 0:00
+AMR,Americas,DOM,Dominican Republic,2010,2480,2/10/2022 0:00
+SEAR,South-East Asia,BGD,Bangladesh,2010,20519,2/10/2022 0:00
+AFR,Africa,GIN,Guinea,2010,20936,2/10/2022 0:00
+AFR,Africa,TGO,Togo,2010,206071,2/10/2022 0:00
+AFR,Africa,LBR,Liberia,2010,212927,2/10/2022 0:00
+AFR,Africa,SLE,Sierra Leone,2010,218473,2/10/2022 0:00
+AMR,Americas,GUY,Guyana,2010,22935,2/10/2022 0:00
+SEAR,South-East Asia,THA,Thailand,2010,22969,2/10/2022 0:00
+EMR,Eastern Mediterranean,PAK,Pakistan,2010,220870,2/10/2022 0:00
+AFR,Africa,ZWE,Zimbabwe,2010,249379,2/10/2022 0:00
+AMR,Americas,SLV,El Salvador,2010,26,2/10/2022 0:00
+AMR,Americas,PRY,Paraguay,2010,29,2/10/2022 0:00
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2010,3031,2/10/2022 0:00
+SEAR,South-East Asia,NPL,Nepal,2010,3115,2/10/2022 0:00
+AFR,Africa,ZAF,South Africa,2010,3787,2/10/2022 0:00
+AFR,Africa,GNB,Guinea-Bissau,2010,30239,2/10/2022 0:00
+AMR,Americas,PER,Peru,2010,31545,2/10/2022 0:00
+AFR,Africa,SEN,Senegal,2010,330331,2/10/2022 0:00
+AMR,Americas,BRA,Brazil,2010,334667,2/10/2022 0:00
+AFR,Africa,COM,Comoros,2010,35199,2/10/2022 0:00
+WPR,Western Pacific,SLB,Solomon Islands,2010,35373,2/10/2022 0:00
+AFR,Africa,GNQ,Equatorial Guinea,2010,39636,2/10/2022 0:00
+WPR,Western Pacific,VUT,Vanuatu,2010,4013,2/10/2022 0:00
+SEAR,South-East Asia,TLS,Timor-Leste,2010,40250,2/10/2022 0:00
+AFR,Africa,DZA,Algeria,2010,408,2/10/2022 0:00
+AMR,Americas,PAN,Panama,2010,418,2/10/2022 0:00
+SEAR,South-East Asia,BTN,Bhutan,2010,436,2/10/2022 0:00
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2010,45155,2/10/2022 0:00
+SEAR,South-East Asia,IDN,Indonesia,2010,465764,2/10/2022 0:00
+AFR,Africa,CPV,Cabo Verde,2010,47,2/10/2022 0:00
+AFR,Africa,NER,Niger,2010,49285,2/10/2022 0:00
+EUR,Europe,UZB,Uzbekistan,2010,5,2/10/2022 0:00
+EMR,Eastern Mediterranean,SOM,Somalia,2010,5629,2/10/2022 0:00
+EUR,Europe,AZE,Azerbaijan,2010,52,2/10/2022 0:00
+AFR,Africa,GMB,Gambia,2010,52245,2/10/2022 0:00
+AFR,Africa,NGA,Nigeria,2010,523513,2/10/2022 0:00
+AFR,Africa,NAM,Namibia,2010,556,2/10/2022 0:00
+EUR,Europe,KGZ,Kyrgyzstan,2010,6,2/10/2022 0:00
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2010,6619,2/10/2022 0:00
+WPR,Western Pacific,MYS,Malaysia,2010,6650,2/10/2022 0:00
+AFR,Africa,CIV,Cote d'Ivoire,2010,62726,2/10/2022 0:00
+EMR,Eastern Mediterranean,SDN,Sudan,2010,625365,2/10/2022 0:00
+AFR,Africa,RWA,Rwanda,2010,638669,2/10/2022 0:00
+AFR,Africa,MOZ,Mozambique,2010,644568,2/10/2022 0:00
+EMR,Eastern Mediterranean,AFG,Afghanistan,2010,69397,2/10/2022 0:00
+AMR,Americas,NIC,Nicaragua,2010,692,2/10/2022 0:00
+WPR,Western Pacific,CHN,China,2010,7108,2/10/2022 0:00
+AMR,Americas,GTM,Guatemala,2010,7198,2/10/2022 0:00
+SEAR,South-East Asia,LKA,Sri Lanka,2010,736,2/10/2022 0:00
+AFR,Africa,TCD,Chad,2010,75342,2/10/2022 0:00
+WPR,Western Pacific,PNG,Papua New Guinea,2010,75985,2/10/2022 0:00
+EMR,Eastern Mediterranean,YEM,Yemen,2010,78269,2/10/2022 0:00
+EUR,Europe,TUR,Türkiye,2010,81,2/10/2022 0:00
+AMR,Americas,HTI,Haiti,2010,84153,2/10/2022 0:00
+AFR,Africa,SWZ,Eswatini,2010,87,2/10/2022 0:00
+AFR,Africa,BFA,Burkina Faso,2010,88540,2/10/2022 0:00
+AFR,Africa,KEN,Kenya,2010,898531,2/10/2022 0:00
+AMR,Americas,HND,Honduras,2010,9745,2/10/2022 0:00
+AFR,Africa,SSD,South Sudan,2010,900283,2/10/2022 0:00
+AFR,Africa,MRT,Mauritania,2010,909,2/10/2022 0:00
